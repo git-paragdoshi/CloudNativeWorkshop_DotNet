@@ -3,7 +3,7 @@ Cloud Native Application Design and Architectures with Pivotal Cloud Foundry
 
 ## Instructors
 - Parag Doshi, Senior Platform Architect, pdoshi@pivotal.io
-- Brian Jimerson, Advisory Platform Architect, bjimerson@pivotal.io
+
 
 ## Agenda
 
